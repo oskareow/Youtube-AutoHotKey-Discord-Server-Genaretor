@@ -30,7 +30,7 @@ SendInput, {Backspace}
 SendInput, {Backspace}
 SendInput, School Server
 SendInput, {Enter}
-sleep, 650
+sleep, 800
 Click, 100, 30
 sleep, 200
 Click, 100, 180
@@ -85,5 +85,118 @@ SendInput, {Backspace}
 SendInput, Teacher
 SendInput, {Enter}
 sleep, 200
+Click, 1320, 990
+sleep, 1000
+Click, 1425, 95
+sleep, 400
+Click, 243, 59
+sleep, 200
+Click, 243, 59
+sleep, 200
+Click, 168, 241
+sleep, 200
+Click, 774, 470
+SendInput, ENGLISH
+SendInput, {Enter}
+sleep, 400
+Click, 243, 59, 0
+sleep, 200
+Click, 243, 59
+sleep, 400
+Click, 168, 241
+sleep, 200
+Click, 774, 470
+SendInput, MATHS
+SendInput, {Enter}
+sleep, 400
+Click, 243, 59, 0
+sleep, 200
+Click, 243, 59
+sleep, 400
+Click, 168, 241
+sleep, 200
+Click, 774, 470
+SendInput, HISTORY
+SendInput, {Enter}
+sleep, 400
+Click, 243, 59, 0
+sleep, 200
+Click, 243, 59
+sleep, 400
+Click, 168, 241
+sleep, 200
+Click, 774, 470
+SendInput, SCIENCE
+SendInput, {Enter}
+sleep, 400
+Click, 243, 59, 0
+sleep, 200
+Click, 243, 59
+sleep, 400
+Click, 168, 241
+sleep, 200
+Click, 774, 470
+SendInput, INFORMATICS
+SendInput, {Enter}
+sleep, 400
+Click, 243, 59, 0
+sleep, 200
+Click, 243, 59
+sleep, 400
+Click, 168, 241
+sleep, 200
+Click, 774, 470
+SendInput, GEOGRAPHY
+SendInput, {Enter}
+sleep, 400
+Click, 243, 59, 0
+sleep, 200
+Click, 243, 59
+sleep, 400
+Click, 168, 241
+sleep, 200
+Click, 774, 470
+SendInput, RT
+SendInput, {Enter}
+sleep, 400
+Click, 243, 59, 0
+sleep, 200
+Click, 243, 59
+sleep, 400
+Click, 168, 241
+sleep, 200
+Click, 774, 470
+SendInput, MUSIC
+SendInput, {Enter}
+sleep, 400
+Click, 243, 59, 0
+sleep, 200
+Click, 243, 59
+sleep, 400
+Click, 168, 241
+sleep, 200
+Click, 774, 470
+SendInput, SPORT/PE
+SendInput, {Enter}
+sleep, 400
+Click, 243, 59, 0
+sleep, 200
+Click, 243, 59
+sleep, 400
+Click, 168, 241
+sleep, 200
+Click, 774, 470
+SendInput, OTHER
+SendInput, {Enter}
+sleep, 400
+Click, 243, 59, 0
+sleep, 200
+Click, 243, 59
+sleep, 400
+Click, 168, 241
+sleep, 200
+Click, 774, 470
+SendInput, FORM PERIOD
+SendInput, {Enter}
+sleep, 400
 return
-
