@@ -86,7 +86,7 @@ SendInput, Teacher
 SendInput, {Enter}
 sleep, 200
 Click, 1320, 990
-sleep, 1000
+sleep, 1500
 Click, 1425, 95
 sleep, 400
 Click, 243, 59
@@ -199,4 +199,248 @@ Click, 774, 470
 SendInput, FORM PERIOD
 SendInput, {Enter}
 sleep, 400
+
+Click, 290, 250, 0
+sleep, 200
+Click, 290, 250
+SendInput, english-text
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+Click, 290, 250, 0
+sleep, 200
+Click, 290, 250
+sleep, 200
+Click, 876, 460
+Click, 800, 556
+SendInput, english-voice
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+
+Click, 290, 357, 0
+sleep, 200
+Click, 290, 357
+SendInput, math-text
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+Click, 290, 357, 0
+sleep, 200
+Click, 290, 357
+sleep, 200
+Click, 876, 460
+Click, 800, 556
+SendInput, math-voice
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+
+Click, 290, 463, 0
+sleep, 200
+Click, 290, 463
+SendInput, history-text
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+Click, 290, 463, 0
+sleep, 200
+Click, 290, 463
+sleep, 200
+Click, 876, 460
+Click, 800, 556
+SendInput, history-voice
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+
+Click, 290, 569, 0
+sleep, 200
+Click, 290, 569
+SendInput, science-text
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+Click, 290, 569, 0
+sleep, 200
+Click, 290, 569
+sleep, 200
+Click, 876, 460
+Click, 800, 556
+SendInput, science-voice
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+
+Click, 290, 676, 0
+sleep, 200
+Click, 290, 676
+SendInput, informatics-text
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+Click, 290, 676, 0
+sleep, 200
+Click, 290, 676
+sleep, 200
+Click, 876, 460
+Click, 800, 556
+SendInput, informatics-voice
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+
+Click, 290, 790, 0
+sleep, 200
+Click, 290, 790
+SendInput, geography-text
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+Click, 290, 790, 0
+sleep, 200
+Click, 290, 790
+sleep, 200
+Click, 876, 460
+Click, 800, 556
+SendInput, geography-voice
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+
+Click, 290, 895, 0
+sleep, 200
+Click, 290, 895
+SendInput, rt-text
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+Click, 290, 895, 0
+sleep, 200
+Click, 290, 895
+sleep, 200
+Click, 876, 460
+Click, 800, 556
+SendInput, rt-voice
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+
+Click, 290, 843, 0
+sleep, 500
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+sleep, 1000
+Click, 290, 843
+SendInput, music-text
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+Click, 290, 843, 0
+sleep, 200
+Click, 290, 843
+sleep, 200
+Click, 876, 460
+Click, 800, 556
+SendInput, music-voice
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+
+Click, 290, 882, 0
+sleep, 500
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+sleep, 1000
+Click, 290, 882
+SendInput, sport-text
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+Click, 290, 882, 0
+sleep, 200
+Click, 290, 882
+sleep, 200
+Click, 876, 460
+Click, 800, 556
+SendInput, sport-voice
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+
+Click, 290, 882, 0
+sleep, 200
+Click, 290, 882
+SendInput, pe-text
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+Click, 290, 882, 0
+sleep, 200
+Click, 290, 882
+sleep, 200
+Click, 876, 460
+Click, 800, 556
+SendInput, pe-voice
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+
+Click, 290, 920, 0
+sleep, 500
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+sleep, 1000
+Click, 290, 920
+SendInput, other-text
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+Click, 290, 920, 0
+sleep, 200
+Click, 290, 920
+sleep, 200
+Click, 876, 460
+Click, 800, 556
+SendInput, other-voice
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+
+Click, 290, 960, 0
+sleep, 500
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+SendInput, {WheelDown}
+sleep, 1000
+Click, 290, 960
+SendInput, form-text
+sleep, 500
+SendInput, {Enter}
+sleep, 500
+Click, 290, 935, 0
+sleep, 200
+Click, 290, 935
+sleep, 200
+Click, 876, 460
+Click, 800, 556
+SendInput, form-voice
+sleep, 500
+SendInput, {Enter}
+sleep, 500
 return
